@@ -5,22 +5,22 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2024-03-12T08:58:13.099Z",
-    "end": "2024-03-12T08:58:13.512Z",
-    "duration": 413
+    "start": "2024-03-19T11:25:44.663Z",
+    "end": "2024-03-19T11:25:45.210Z",
+    "duration": 547
   },
   "tests": [
     {
       "title": "is set as Scuber",
-      "fullTitle": "index.js Scuber is set as Scuber",
+      "fullTitle": "index.js companyName is set as Scuber",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
-      "fullTitle": "index.js Scuber is defined as a const",
-      "duration": 1,
+      "fullTitle": "index.js companyName is defined as a const",
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -58,15 +58,15 @@
   "passes": [
     {
       "title": "is set as Scuber",
-      "fullTitle": "index.js Scuber is set as Scuber",
+      "fullTitle": "index.js companyName is set as Scuber",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
-      "fullTitle": "index.js Scuber is defined as a const",
-      "duration": 1,
+      "fullTitle": "index.js companyName is defined as a const",
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,7 +94,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
